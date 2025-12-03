@@ -27,7 +27,7 @@ It lets you:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/spider-scraper.git
+git clone https://github.com/danluk1001/spider-scraper.git
 cd spider-scraper
 pip install -r requirements.txt
 python SpiderScraper.py
